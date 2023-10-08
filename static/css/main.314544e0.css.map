@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.314544e0.css","mappings":"AAAA,oBAEI,qBAAsB,CAGtB,WAAY,CAFZ,cAAe,CAFf,iBAAkB,CAGlB,UAEJ","sources":["routes/Detail.module.css"],"sourcesContent":[".body {\r\n    text-align: center;\r\n    background-color: gray;\r\n    padding: 30px 0;\r\n    width: 100%;\r\n    height: 100%;\r\n}"],"names":[],"sourceRoot":""}
